@@ -1,4 +1,4 @@
-package com.retrokarr.vuejs.vuejsstudy.config;
+/*package com.retrokarr.vuejs.vuejsstudy.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -24,4 +24,4 @@ public class WebConfiguration extends WebMvcConfigurerAdapter {
     public void configureDefaultServletHandling(DefaultServletHandlerConfigurer configurer) {
         configurer.enable();
     }
-}
+}*/

@@ -15,6 +15,6 @@ public class HomeController {
     public String home(@PathVariable(required = false) String no) {
         return Optional.ofNullable(no)
                 .map(n -> "vue" + n)
-                .orElse("index");
+                .orElse("index.html");
     }
 }
